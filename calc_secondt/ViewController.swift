@@ -42,5 +42,17 @@ class ViewController: UIViewController {
         number2 = number1
         number1 = 0
         ope = 4
-}
+    }
+    @IBAction func equal() {
+        if ope == 1 {
+            number3 = number2 + number1
+        } else if ope == 2 {
+            number3 = number2 - number1
+        } else if ope == 3 {
+            number3 = number2 * number1
+        } else if ope == 4 {
+            number3 =  number2 / number1
+        }
+        label.text = String(number3)
+    }
 }
