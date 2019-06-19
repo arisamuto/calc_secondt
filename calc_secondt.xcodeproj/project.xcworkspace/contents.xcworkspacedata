@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:calc_secondt.xcodeproj">
+      location = "group:/Users/arisamuto/Library/Mobile Documents/com~apple~CloudDocs/.Trash/calc_secondt/calc_secondt/snoopy.jpg">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/arisamuto/Library/Mobile Documents/com~apple~CloudDocs/.Trash/calc_secondt/calc_secondt/Charlie_Brown_and_Snoopy2.png">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>

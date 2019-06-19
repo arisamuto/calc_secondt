@@ -22,6 +22,8 @@
 		800879EA22B9EF5600310A68 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		800879ED22B9EF5600310A68 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		800879EF22B9EF5600310A68 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		800879F522BA786E00310A68 /* Charlie_Brown_and_Snoopy2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Charlie_Brown_and_Snoopy2.png; path = "/Users/arisamuto/Library/Mobile Documents/com~apple~CloudDocs/.Trash/calc_secondt/calc_secondt/Charlie_Brown_and_Snoopy2.png"; sourceTree = "<absolute>"; };
+		800879F622BA78C400310A68 /* snoopy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = snoopy.jpg; path = "/Users/arisamuto/Library/Mobile Documents/com~apple~CloudDocs/.Trash/calc_secondt/calc_secondt/snoopy.jpg"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,8 @@
 				800879E322B9EF5400310A68 /* AppDelegate.swift */,
 				800879E522B9EF5400310A68 /* ViewController.swift */,
 				800879E722B9EF5400310A68 /* Main.storyboard */,
+				800879F522BA786E00310A68 /* Charlie_Brown_and_Snoopy2.png */,
+				800879F622BA78C400310A68 /* snoopy.jpg */,
 				800879EA22B9EF5600310A68 /* Assets.xcassets */,
 				800879EC22B9EF5600310A68 /* LaunchScreen.storyboard */,
 				800879EF22B9EF5600310A68 /* Info.plist */,
