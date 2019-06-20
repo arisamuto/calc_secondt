@@ -55,4 +55,14 @@ class ViewController: UIViewController {
         }
         label.text = String(number3)
     }
+    
+    @IBAction func clear() {
+        number1 = 0
+        label.text = String(number1)
+    }
+    
+    @IBAction func select0() {
+        number1 = number1*10+0
+        label.text = String(number1)
+    }
 }
