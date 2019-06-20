@@ -186,7 +186,7 @@
                     </view>
                     <connections>
                         <outlet property="label" destination="6BO-Dn-n4N" id="cAs-E9-q29"/>
-                        <outlet property="snoopy" destination="WEu-dS-OyI" id="2Wl-RY-iyd"/>
+                        <outlet property="snoopy" destination="WEu-dS-OyI" id="e3B-Xg-Z3E"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

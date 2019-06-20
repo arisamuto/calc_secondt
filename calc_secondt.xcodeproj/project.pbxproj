@@ -9,9 +9,9 @@
 /* Begin PBXBuildFile section */
 		800879E422B9EF5400310A68 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 800879E322B9EF5400310A68 /* AppDelegate.swift */; };
 		800879E622B9EF5400310A68 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 800879E522B9EF5400310A68 /* ViewController.swift */; };
-		800879E922B9EF5400310A68 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 800879E722B9EF5400310A68 /* Main.storyboard */; };
 		800879EB22B9EF5600310A68 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 800879EA22B9EF5600310A68 /* Assets.xcassets */; };
 		800879EE22B9EF5600310A68 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 800879EC22B9EF5600310A68 /* LaunchScreen.storyboard */; };
+		800879FA22BBEBFF00310A68 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 800879E722B9EF5400310A68 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +23,7 @@
 		800879ED22B9EF5600310A68 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		800879EF22B9EF5600310A68 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		800879F722BBE7F600310A68 /* snoopy_yellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = snoopy_yellow.png; path = /Users/arisamuto/Desktop/calc_secondt/calc_secondt/snoopy_yellow.png; sourceTree = "<absolute>"; };
+		800879F922BBE98100310A68 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,8 +58,8 @@
 			children = (
 				800879E322B9EF5400310A68 /* AppDelegate.swift */,
 				800879E522B9EF5400310A68 /* ViewController.swift */,
-				800879E722B9EF5400310A68 /* Main.storyboard */,
 				800879F722BBE7F600310A68 /* snoopy_yellow.png */,
+				800879E722B9EF5400310A68 /* Main.storyboard */,
 				800879EA22B9EF5600310A68 /* Assets.xcassets */,
 				800879EC22B9EF5600310A68 /* LaunchScreen.storyboard */,
 				800879EF22B9EF5600310A68 /* Info.plist */,
@@ -124,9 +125,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				800879FA22BBEBFF00310A68 /* Main.storyboard in Resources */,
 				800879EE22B9EF5600310A68 /* LaunchScreen.storyboard in Resources */,
 				800879EB22B9EF5600310A68 /* Assets.xcassets in Resources */,
-				800879E922B9EF5400310A68 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -149,6 +150,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				800879E822B9EF5400310A68 /* Base */,
+				800879F922BBE98100310A68 /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";

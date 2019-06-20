@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:snoopy_redheart.png">
+   </FileRef>
+   <FileRef
       location = "group:/Users/arisamuto/Desktop/calc_secondt/calc_secondt/snoopy_yellow.png">
    </FileRef>
    <FileRef
