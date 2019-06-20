@@ -65,4 +65,48 @@ class ViewController: UIViewController {
         number1 = number1*10+0
         label.text = String(number1)
     }
+    
+    @IBAction func select1() {
+        number1 = number1*10+1
+        label.text = String(number1)
+    }
+    
+    @IBAction func select2() {
+        number1 = number1*10+2
+        label.text = String(number1)
+    }
+    
+    @IBAction func select3() {
+        number1 = number1*10+3
+        label.text = String(number1)
+    }
+    
+    @IBAction func select4() {
+        number1 = number1*10+4
+        label.text = String(number1)
+    }
+    @IBAction func select5() {
+        number1 = number1*10+5
+        label.text = String(number1)
+    }
+    
+    @IBAction func select6() {
+        number1 = number1*10+6
+        label.text = String(number1)
+    }
+    
+    @IBAction func select7() {
+        number1 = number1*10+7
+        label.text = String(number1)
+    }
+    
+    @IBAction func select8() {
+        number1 = number1*10+8
+        label.text = String(number1)
+    }
+    
+    @IBAction func select9() {
+        number1 = number1*10+9
+        label.text = String(number1)
+    }
 }
